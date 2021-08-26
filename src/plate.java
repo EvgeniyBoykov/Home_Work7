@@ -2,6 +2,7 @@ public class plate {
 
     // 2. Сделать так, чтобы в тарелке с едой не могло получиться отрицательного
     // количества еды (например, в миске 10 еды, а кот пытается покушать 15-20).
+
     private int food;
     public plate(int food) {this.food = food;}
     public void negativefood(int appetit) {

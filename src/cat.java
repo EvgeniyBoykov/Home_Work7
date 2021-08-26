@@ -2,6 +2,7 @@ public class cat {
 
     //3. Каждому коту нужно добавить поле сытость (когда создаем котов, они голодны).
     // Если коту удалось покушать (хватило еды), сытость = true.
+
     private boolean full;
     private int appetite;
     private String name;
